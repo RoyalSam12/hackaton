@@ -1,0 +1,13 @@
+.paragraph-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: #F7DCB9;
+}
+
+.paragraph {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+}

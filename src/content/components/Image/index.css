@@ -1,0 +1,16 @@
+.content-image {
+    width: 80%;
+    object-fit: cover;
+    image-rendering: crisp-edge;;
+    height: 800px;
+    border-radius: 12px;
+    border: 8px solid #914F1E;
+}
+
+.content-image-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: #F7DCB9;
+}
